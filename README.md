@@ -68,12 +68,12 @@ Let's indulge in an insightful analysis of the UBER MOVEMENT.
 ![6](https://user-images.githubusercontent.com/67545412/89106934-ef8ec100-d44a-11ea-9d6f-f964dfa7d0b3.jpg)
 
 
-##### The Geometric mean travel time varies with different hours of the day. 
+#### The Geometric mean travel time varies with different hours of the day. 
 
 ![7](https://user-images.githubusercontent.com/67545412/89106935-f0275780-d44a-11ea-9903-88a15babca1f.jpg)
 
 
-##### The Mean travel time varies with different hours of the day. 
+#### The Mean travel time varies with different hours of the day. 
 
 ###### The above bar plot gives us an idea about the order of maximum commutes at different binned hours of the day.
 
