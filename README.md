@@ -23,7 +23,7 @@ Let's indulge in an insightful analysis of the UBER MOVEMENT.
 3.	Following this we add alternate blank columns in between the data columns and equate a formula such that if length of the right column is greater than the right column, so the right one gets pasted else the left one. 
 4.	Following this, step we fill our entire empty void datasets as shown in the below figure and save the new dataset as modified dataset. 
 
-![1](https://user-images.githubusercontent.com/67545412/89106929-e867b300-d44a-11ea-8016-7325d6d71018.jpg)
+
 ![1](https://user-images.githubusercontent.com/67545412/89106929-e867b300-d44a-11ea-8016-7325d6d71018.jpg)
 
 
