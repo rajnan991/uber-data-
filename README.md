@@ -94,8 +94,6 @@ Let's indulge in an insightful analysis of the UBER MOVEMENT.
 
 
 
-![11](https://user-images.githubusercontent.com/67545412/89106938-f1f11b00-d44a-11ea-85c3-b243e68076a2.jpg)
-
 
 ###### For instance, Evening is the time when maximum Uber movements occur for office-goers,school children, workers for they  return to their respective homes’.
 ###### The morning schedule is further divided into early morning, morning, afternoon which certainly distributes the commute movements by various professionals or children dependent on the population that’s dependency on Uber for commuting. 
