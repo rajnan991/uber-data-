@@ -1,7 +1,10 @@
 ## UBER MOVEMENT DATA 2019 (Quarter-3) ||  Uber-Fast Trips Any Time, Almost Anywhere
 #### Uber customers typically spend far less time waiting than customers of traditional taxi services. Riders also have the option to share rides with others heading in the same direction through UberPoo. Let's go for a systematic data study of the ever super cool riding app. 
 
-Let's indulge in an insightful analysis of the UBER MOVEMENT. 
+
+
+
+Let's indulge in an insightful analysis of the UBER MOVEMENT.
 
 
 ##                    UBER DATA ANALYSIS
@@ -124,6 +127,15 @@ Let's indulge in an insightful analysis of the UBER MOVEMENT.
 
 
 ###### This depicts the variation in the data distribution of the mean_travel-time and the geometric_mean_travel_time .
+
+
+### Applying Gradient Boost Model 
+
+![16](https://user-images.githubusercontent.com/67545412/89116611-bccce300-d4b3-11ea-8af7-c2da9d0e0788.jpg)
+
+#### Checking Score
+
+![17](https://user-images.githubusercontent.com/67545412/89116612-bdfe1000-d4b3-11ea-9900-9cfd38955dc0.jpg)
 
 
 #### For more such analysis, have a look at my UBER MOVEMENT Repository.  
