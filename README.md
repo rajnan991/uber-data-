@@ -137,6 +137,9 @@ Let's indulge in an insightful analysis of the UBER MOVEMENT.
 
 ![17](https://user-images.githubusercontent.com/67545412/89116612-bdfe1000-d4b3-11ea-9900-9cfd38955dc0.jpg)
 
+### Comparing the Mean Travel Time Predicted by our Model with that of the Google Maps between the Source Wards in Bangalore with that of the Destination Ward, gives us an outlined idea about how well our model is faring in estimating the travel time between Source and Destination.  
+![Week8](https://user-images.githubusercontent.com/67545412/89714052-98906b00-d9b9-11ea-8b72-0fe81c96d21a.jpg)
+
 
 #### For more such analysis, have a look at my UBER MOVEMENT Repository.  
 
