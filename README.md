@@ -140,8 +140,11 @@ Let's indulge in an insightful analysis of the UBER MOVEMENT.
 ### Comparing the Mean Travel Time Predicted by our Model with that of the Google Maps between the Source Wards in Bangalore with that of the Destination Ward, gives us an outlined idea about how well our model is faring in estimating the travel time between Source and Destination.  
 
 ![1234](https://user-images.githubusercontent.com/67545412/89714965-ec9e4e00-d9bf-11ea-9426-4e820066830d.jpg)
+##### This compares the time predicted for different hours of the day.
+![Gmaap compare](https://user-images.githubusercontent.com/67545412/89730635-26259680-da5e-11ea-8787-71cd3ec37e8b.jpg)
 
 
 
-#### With comparative calculation of the predicted model and the Google maps predicted time,indicates our prediction is accurate by 71 percent as it differs from the estimated Google Map time prediction by around 25-30%. 
+
+#### With comparative calculation of the predicted model and the Google maps predicted time,indicates our prediction is accurate by 71 percent as it differs from the estimated Google Map by around 20-25%. 
 
